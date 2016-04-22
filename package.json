@@ -1,0 +1,24 @@
+{
+  "name": "krishjs.github",
+  "version": "0.1.0",
+  "description": "a github pages website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishjs/krishjs.github.io.git"
+  },
+  "keywords": [
+    "pages",
+    "github",
+    "io"
+  ],
+  "author": "krishjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishjs/krishjs.github.io/issues"
+  },
+  "homepage": "https://github.com/Krishjs/krishjs.github.io#readme"
+}
