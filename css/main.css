@@ -1,0 +1,29 @@
+body{
+    background: url(../img/bgoffice.jpg);
+    background-repeat: repeat-x;
+}
+h1{
+  font-size: 65px;
+  line-height: 1.2em;
+  border-bottom: #CCC solid 1px;
+  padding: 20px 0;
+}
+img {
+  display: block;
+  width: 100%;
+}
+.container {
+  position: relative;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 5%;
+}
+.scene {
+  padding: 0;
+  margin: 0;
+}
+.avatar{
+  width: 100px;
+  padding-top: 201px;
+  padding-left: 230px;
+}
